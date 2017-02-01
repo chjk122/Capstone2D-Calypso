@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Crate
+  - Enemy
+  - Wall
+  - Obstacle
+  - PlayerBullet
+  - BombPickup
+  - ExplosionFX
+  - HealthBar
+  - CrouchCollider
+  - Ladder
+  - Dialogue
+  - Bullet
+  - AggroZone
+  - Club
+  - Sword
+  - Coin
+  - Checkpoint
+  - VisionCone
+  - Key
+  - Door
+  - EnemyWeapon
+  - Bandana
+  - Sword
+  - ladder
+  - OneWayDoor
+  - SceneSwap
+  - KillZone
+  - StoryObject
+  - StoryObjectPrison
+  - StoryObjectCave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Player
+  - EnemyHitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1535931219
+    locked: 0
+  - name: Objects
+    uniqueID: 1949200333
+    locked: 0
+  - name: Units
+    uniqueID: 3363470833
+    locked: 0
+  - name: Foreground
+    uniqueID: 1024582385
+    locked: 0
+  - name: UI
+    uniqueID: 149272721
+    locked: 0
